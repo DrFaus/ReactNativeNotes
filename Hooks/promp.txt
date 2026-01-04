@@ -1,0 +1,68 @@
+> Háblame **largo y tendido** del Hook **`<useReducer>`** en **React / React Native**.
+>
+> Requisitos obligatorios:
+>
+> ### 1) Definición clara
+>
+> * ¿Qué es este Hook?
+> * ¿Qué problema resuelve dentro del modelo de componentes funcionales?
+> * ¿Por qué existe este Hook y qué limitación del enfoque anterior soluciona?
+> * ¿En qué casos se debe usar y en cuáles NO?
+> * Relación del Hook con el **ciclo de renderizado** y la **reconciliación de React**.
+>
+> ### 2) Ejemplo mínimo funcional
+>
+> * El ejemplo más simple posible que funcione.
+> * Debe mostrarse dentro de un **componente funcional**.
+> * Explica brevemente cada parte del código.
+> * Explica qué ocurre internamente cuando el Hook se ejecuta.
+>
+> ### 3) Ejemplo complejo y realista
+>
+> Debe mostrar un uso cercano a producción, incluyendo al menos:
+>
+> * Uso correcto del Hook en un escenario real
+> * Interacción con **estado, props u otros Hooks**
+> * Integración con eventos, efectos secundarios o datos dinámicos
+> * Un caso de uso real (formularios, listas, timers, suscripciones, lógica reutilizable, etc.)
+> * Buen manejo del ciclo de vida implícito del Hook
+>
+> ### 4) API del Hook
+>
+> * Firma del Hook (parámetros de entrada)
+> * Valor(es) que retorna
+> * Significado de cada parámetro y retorno
+> * Qué pasa si se usan valores incorrectos
+>
+> ### 5) Errores típicos
+>
+> * Al menos 8 errores frecuentes
+> * Qué síntoma producen
+> * Por qué ocurren
+> * Cómo corregirlos o evitarlos
+>
+> ### 6) Hooks, APIs y herramientas relacionadas
+>
+> * Hooks que suelen usarse junto con `<NOMBRE_DEL_HOOK>`
+> * APIs del ecosistema React / React Native relacionadas
+> * Casos en los que conviene combinarlos
+>
+> ### 7) Buenas prácticas
+>
+> * Reglas oficiales del Hook (y por qué existen)
+> * Patrones recomendados
+> * Antipatrones comunes
+> * Consideraciones de rendimiento
+> * Cómo mantener el código legible y predecible
+>
+> ### 8) Cuándo NO usar este Hook
+>
+> * Casos donde su uso es innecesario o contraproducente
+> * Alternativas más simples o más adecuadas
+>
+> ### Formato del resultado
+>
+> * Usa **títulos claros**, **listas** y **bloques de código**
+> * Todo en **español**
+> * Enfoque **práctico y profundo**, no superficial
+> * No asumas conocimientos avanzados, pero tampoco expliques obviedades
