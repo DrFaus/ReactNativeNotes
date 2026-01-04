@@ -1,7 +1,3 @@
-Perfecto, Fausto. Aquí tienes **la misma respuesta**, **íntegra y sin cambios de contenido**, **formateada en Markdown puro**, lista para **copiar y pegar**.
-
----
-
 # `useMemo` en React / React Native
 
 ## 1) Definición clara
