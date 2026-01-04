@@ -1,0 +1,88 @@
+Háblame largo y tendido del componente <Text> en React Native.
+
+Requisitos obligatorios:
+
+Definición clara
+
+¿Para qué sirve este componente?
+
+¿Qué problema resuelve?
+
+¿En qué casos se debe usar y en cuáles NO?
+
+Diferencias clave con componentes similares.
+
+Ejemplo mínimo funcional
+
+El ejemplo más simple posible que funcione.
+
+Explica brevemente cada parte del código.
+
+Ejemplo complejo y realista
+Debe mostrar un uso cercano a producción, incluyendo al menos:
+
+Uso de props relevantes del componente
+
+Integración con estado o props dinámicos
+
+Estilos personalizados
+
+Manejo de eventos (si aplica)
+
+Un caso de uso real (formularios, listas, navegación, interacción, etc.)
+
+Props más importantes
+
+Lista de las props clave
+
+Qué hace cada una
+
+Cuándo conviene usarla
+
+Errores comunes al usarla mal
+
+Prop style (si aplica)
+
+Explica el rol de style en este componente
+
+Enumera y describe las propiedades de estilo más comunes
+
+Indica qué estilos sí funcionan y cuáles no
+
+Menciona diferencias relevantes entre iOS y Android si existen
+
+Errores típicos
+
+Al menos 8 errores frecuentes
+
+Qué síntoma producen
+
+Cómo corregirlos o evitarlos
+
+Componentes y herramientas auxiliares
+
+Componentes que normalmente se usan junto con <NOMBRE_DEL_COMPONENTE>
+
+Hooks, APIs o utilidades relacionadas
+
+Librerías comunes que lo complementan
+
+Explica brevemente por qué se usan juntos
+
+Buenas prácticas
+
+Recomendaciones de uso en proyectos reales
+
+Consideraciones de rendimiento
+
+Organización de estilos y código
+
+Formato del resultado:
+
+Usa títulos claros, listas y bloques de código
+
+Todo en español
+
+Enfoque práctico y profundo, no superficial
+
+No asumas conocimientos avanzados, pero tampoco expliques obviedades.
