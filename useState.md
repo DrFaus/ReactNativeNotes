@@ -1,7 +1,3 @@
-Perfecto, Fausto. Aquí tienes **`useState` explicado largo y tendido**, siguiendo **al pie de la letra tu plantilla**, con enfoque conceptual correcto y ejemplos realistas para **React / React Native**.
-
----
-
 # `useState` en React / React Native
 
 ## 1) Definición clara
