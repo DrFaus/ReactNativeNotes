@@ -1,6 +1,6 @@
-## `<TextInput>` en React Native
+# `<TextInput>` en React Native
 
-### Definición clara
+## Definición clara
 
 `<TextInput>` es el componente nativo de React Native para **capturar texto del usuario** (una línea o múltiples líneas) usando el teclado del sistema (iOS/Android). Es el equivalente funcional de un `<input>` o `<textarea>` en la web, pero con un modelo y limitaciones propias de móvil.
 
