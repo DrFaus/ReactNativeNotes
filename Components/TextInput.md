@@ -1,4 +1,4 @@
-## TextInput en React Native
+## `<TextInput>` en React Native
 
 ### Definición clara
 
