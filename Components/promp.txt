@@ -1,4 +1,4 @@
-Háblame largo y tendido del componente <TextInput> en React Native.
+Háblame largo y tendido del componente <TouchableWithoutFeedback> en React Native.
 
 Requisitos obligatorios:
 
